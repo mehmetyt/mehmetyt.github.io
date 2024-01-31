@@ -1,2 +1,2 @@
 var div = document.getElementById("div");
-div.textContent = "Örnek metin";
+div.textContent = "Örnek metin...";
